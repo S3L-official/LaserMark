@@ -27,5 +27,3 @@ Here is the label-encodings of different traffic marks provided by TT100K.
 Below we list #pictures in each label in LaserMark. Notice that there are 60 pictures which do not belong to any labels in the former label-encodings, we mark them as label `uk`.
 
 <img src="statistic.png" alt="Statistic of #pictures in each label" title="Statistic of #pictures in each label">
-
-After the COVID-19, we'll collect more images to entend LaserMark.
